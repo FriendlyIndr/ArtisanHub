@@ -15,7 +15,7 @@ ArtisanHub is a social media and marketplace platform for artisans to showcase a
 
 ```
 DATABASE_NAME=artisanhub_db
-DATABASE_USERNAME=artisanhub_user
+DATABASE_USERNAME=postgres
 DATABASE_PASSWORD=your_password_here
 DATABASE_HOST=localhost
 DATABASE_PORT=5432
