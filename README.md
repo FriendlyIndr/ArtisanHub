@@ -21,3 +21,5 @@ DATABASE_HOST=localhost
 DATABASE_PORT=5432
 
 ```
+
+- Create a local or hosted database with the appropriate credentials put into the .env file.
